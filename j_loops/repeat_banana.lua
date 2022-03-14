@@ -1,0 +1,1 @@
+-- 1. Write a Lua program that prints the word 'banana' one thousand (1,000) times
